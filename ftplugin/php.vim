@@ -1,2 +1,5 @@
-set ts=4 sw=4 sws=4
+set tabstop=4
+set shiftwidth=4
 set expandtab
+set autoindent
+set smartindent
