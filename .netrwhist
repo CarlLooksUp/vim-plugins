@@ -1,10 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/home/carl/.vim/bundle/vim-ruby/autoload'
-let g:netrw_dirhist_2='/home/carl/prog/scratch'
-let g:netrw_dirhist_3='/home/carl/prog/rails/rubytutorial_sampleapp'
-let g:netrw_dirhist_4='/Users/carl/prog/orderpigeon/docker'
-let g:netrw_dirhist_5='/Users/carl/prog/orderpigeon/.git'
-let g:netrw_dirhist_6='/Users/carl/prog/orderpigeon/docker'
-let g:netrw_dirhist_7='/Users/carl/prog/docker-magento/magento/var/log'
-let g:netrw_dirhist_8='/Users/carl/prog/scratch'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/var/www/wordpress/wp-content/plugins/akismet'
+let g:netrw_dirhist_2='/home/carl/prog/crimson_test/crimson-test'
