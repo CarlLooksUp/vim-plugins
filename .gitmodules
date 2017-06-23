@@ -67,3 +67,6 @@
 [submodule "bundle/php.vim"]
 	path = bundle/php.vim
 	url = git@github.com:StanAngeloff/php.vim.git
+[submodule "bundle/scss-syntax.vim"]
+	path = bundle/scss-syntax.vim
+	url = git://github.com/cakebaker/scss-syntax.vim.git
